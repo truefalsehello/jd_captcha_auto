@@ -1,5 +1,5 @@
 ## 相关配置
-* ###package.json
+* ### package.json
 ```javascript
 {
   "dependencies": {
@@ -17,11 +17,11 @@
 * #### https://curlconverter.com/node-fetch/
 ![](https://raw.githubusercontent.com/truefalsehello/jd_captcha_auto/refs/heads/main/5.jpg)
 ![](https://raw.githubusercontent.com/truefalsehello/jd_captcha_auto/refs/heads/main/2.jpg)
-* ###先执行
+* ### 先执行
 ```bash
 python .\jd.py
 ```
 
-* ####然后执行
+* #### 然后执行
 ```bash
 node .\jingdong.js
